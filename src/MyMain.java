@@ -10,6 +10,7 @@ public class MyMain {
 				+ "");
 		System.out.println("Git Line 3");
 		System.out.println("Git Line 5");
+		System.out.println("Git Line 6");
 	}
 
 }
