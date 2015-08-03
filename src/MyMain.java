@@ -12,6 +12,7 @@ public class MyMain {
 		System.out.println("Git Line 4");
 		System.out.println("Git Line 5");
 		System.out.println("Git Line 6");
+		System.out.println("Git Line 7");
 
 	}
 
